@@ -1,0 +1,5 @@
+Oto plik testowy numer2
+tutaj znajduja sie na razie tylko liczby
+1 2 3 4 5 6 7
+spacje entery
+i male ZnAki oRaZ dUzE wciaz bez przecinkow kropek i polskich znakow

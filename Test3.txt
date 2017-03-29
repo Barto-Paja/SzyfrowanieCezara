@@ -1,0 +1,4 @@
+Oto ostatni ju¿ plik testowy - numer 3
+Tutaj zawieraj¹ siê wszystkie mo¿liwe przypadki, czyli pe³noprawny tekst, w którym to nasz "przyjaciel" chce nam coœ przekazaæ wa¿nego
+Coœ, czego inni nie powinni widzieæ
+Jedna linjka jest d³u¿sza, aby sprawdziæ obci¹¿enie komputera i tablicy char [x];
